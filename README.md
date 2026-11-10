@@ -18,7 +18,7 @@
 
 🇧🇷 **Português**
 
-Olá! Sou AntnzGabriel, estudante de programação e entusiasta da tecnologia.
+Olá! Sou Antônio Gabriel, estudante de programação e entusiasta da tecnologia.
 
 Estou construindo minha jornada no desenvolvimento de software, aprimorando minha lógica de programação e explorando ferramentas que me ajudem a transformar ideias em soluções reais.
 
@@ -26,7 +26,7 @@ Acredito que cada projeto é uma oportunidade de aprender, experimentar e evolui
 
 🇺🇸 **English**
 
-Hello! I'm AntnzGabriel, a programming student and technology enthusiast.
+Hello! I'm Antônio Gabriel, a programming student and technology enthusiast.
 
 I'm building my journey in software development, improving my programming logic and exploring tools that help me turn ideas into real solutions.
 
