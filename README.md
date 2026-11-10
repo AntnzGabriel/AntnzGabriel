@@ -156,17 +156,6 @@ Trabalho acadêmico desenvolvido em grupo com o objetivo de conscientizar usuár
 
 ---
 
-## 🎮 Beyond the Code
-
-Quando não estou programando, gosto de explorar outros universos:
-
-- 🎮 Games e tecnologia.
-- ⛩️ Animes e cultura japonesa.
-- ⚡ Pokémon e cultura geek.
-- 🖥️ Hardware e montagem de computadores.
-
----
-
 ## 🌐 Conecte-se comigo | Connect With Me
 
 <div align="center">
