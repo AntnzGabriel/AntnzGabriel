@@ -18,17 +18,21 @@
 
 🇧🇷 **Português**
 
-Olá! Sou Antônio Gabriel, estudante de programação e entusiasta da tecnologia.
+Olá! Sou Antônio Gabriel, estudante de Análise e Desenvolvimento de Sistemas e entusiasta da tecnologia.
 
 Estou construindo minha jornada no desenvolvimento de software, aprimorando minha lógica de programação e explorando ferramentas que me ajudem a transformar ideias em soluções reais.
+
+Tenho interesse em desenvolvimento de sistemas, banco de dados, segurança da informação e criação de projetos que conectem tecnologia e inovação.
 
 Acredito que cada projeto é uma oportunidade de aprender, experimentar e evoluir.
 
 🇺🇸 **English**
 
-Hello! I'm Antônio Gabriel, a programming student and technology enthusiast.
+Hello! I'm Antônio Gabriel, a Systems Analysis and Development student and technology enthusiast.
 
 I'm building my journey in software development, improving my programming logic and exploring tools that help me turn ideas into real solutions.
+
+I'm interested in software development, databases, information security and creating projects that connect technology and innovation.
 
 I believe every project is an opportunity to learn, experiment and grow.
 
@@ -40,11 +44,15 @@ I believe every project is an opportunity to learn, experiment and grow.
 
 ### 📚 Languages & Learning
 
-<img src="https://skillicons.dev/icons?i=python,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" />
 
 ### 🛠️ Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+
+### 🗄️ Database & Technologies
+
+<img src="https://skillicons.dev/icons?i=sqlite,mysql&theme=dark" />
 
 </div>
 
@@ -53,28 +61,86 @@ I believe every project is an opportunity to learn, experiment and grow.
 ## 🚀 Atualmente | Currently
 
 - 📖 Estudando lógica de programação e algoritmos.
-- 💻 Desenvolvendo projetos para praticar meus conhecimentos.
-- 🐍 Explorando Python e programação em C.
-- 🔧 Aprimorando minhas habilidades com Git e GitHub.
+- ☕ Desenvolvendo conhecimentos em Java e Programação Orientada a Objetos.
+- 🐍 Explorando Python e análise de dados.
+- 🗄️ Aprendendo sobre bancos de dados, SQL e JDBC.
+- 🔐 Explorando conceitos de segurança da informação.
 - 🎯 Construindo meu portfólio e me preparando para oportunidades na área de tecnologia.
 
 **My current mission:** Learn, build, improve and repeat.
 
 ---
 
-## 🏗️ Projetos | Featured Projects
+## 🏗️ Projetos e trabalhos | Projects & Academic Work
 
-### 💻 TechLab Inventory
+### 💻 01. TechLab Inventory & Service Desk
 
-Projeto de gerenciamento de inventário desenvolvido durante minha jornada de aprendizado.
+**Sistema de gerenciamento de ativos de TI e chamados de suporte.**
 
-**Objetivos:**
+Projeto desenvolvido para aplicar conceitos de Programação Orientada a Objetos e persistência de dados em banco de dados relacional.
 
-- Praticar desenvolvimento de software.
-- Organizar e estruturar projetos.
-- Aplicar conceitos de programação na prática.
+**Principais funcionalidades e conceitos:**
 
-*Status: Em desenvolvimento / Learning Project.*
+- Cadastro e gerenciamento de ativos de TI.
+- Registro e consulta de chamados de suporte.
+- Operações CRUD (Create, Read, Update, Delete).
+- Relacionamentos entre entidades utilizando Foreign Keys.
+- Consultas SQL com JOIN.
+- Persistência de dados utilizando JDBC.
+
+**Tecnologias:**
+
+`Java` `JDBC` `SQLite` `SQL` `Maven`
+
+---
+
+### 🧪 02. iExame | Projeto Integrador
+
+**Plataforma digital para análise e acompanhamento educativo de exames laboratoriais.**
+
+Projeto Integrador desenvolvido com o objetivo de tornar informações laboratoriais mais acessíveis e compreensíveis.
+
+A proposta contempla dois perfis principais:
+
+- 👤 **Paciente:** registro de exames, interpretação educativa e acompanhamento histórico.
+- 📚 **Estudante:** atividades interativas e casos clínicos simulados para aprendizagem.
+
+**Principais recursos planejados:**
+
+- Inserção e análise de resultados laboratoriais.
+- Classificação de indicadores com base em valores de referência.
+- Dashboard para acompanhamento de resultados.
+- Histórico de exames.
+- Recomendações educativas e preventivas.
+- Experiência de aprendizagem para estudantes.
+
+**Tecnologias e ferramentas previstas:**
+
+`Python` `Flask / FastAPI` `Pandas` `NumPy` `SQLite / PostgreSQL` `Figma`
+
+**Desenvolvimento do protótipo:** Figma (UX/UI).
+
+---
+
+### 🔐 03. Segurança Digital | Cartilha Educativa
+
+**Material educativo para prevenção contra golpes e ameaças virtuais.**
+
+Trabalho acadêmico desenvolvido em grupo com o objetivo de conscientizar usuários sobre riscos digitais e apresentar práticas para proteger informações pessoais.
+
+**Principais assuntos abordados:**
+
+- Identificação de golpes virtuais.
+- Phishing e falsos perfis.
+- Fraudes envolvendo Pix.
+- Malware, ransomware, vírus e cavalos de Troia.
+- Identificação de links e mensagens suspeitas.
+- Senhas fortes e autenticação em duas etapas.
+- Boas práticas de segurança digital.
+
+**Área de conhecimento:**
+
+`Cybersecurity` `Information Security` `Digital Awareness`
 
 ---
 
@@ -82,9 +148,22 @@ Projeto de gerenciamento de inventário desenvolvido durante minha jornada de ap
 
 - [ ] Desenvolver projetos cada vez mais completos.
 - [ ] Aprimorar minha lógica de programação.
+- [ ] Aprofundar meus conhecimentos em Java e Python.
+- [ ] Evoluir em desenvolvimento backend e bancos de dados.
 - [ ] Aprender novas linguagens e tecnologias.
 - [ ] Construir um portfólio consistente.
 - [ ] Conquistar minha primeira oportunidade profissional na área de desenvolvimento.
+
+---
+
+## 🎮 Beyond the Code
+
+Quando não estou programando, gosto de explorar outros universos:
+
+- 🎮 Games e tecnologia.
+- ⛩️ Animes e cultura japonesa.
+- ⚡ Pokémon e cultura geek.
+- 🖥️ Hardware e montagem de computadores.
 
 ---
 
