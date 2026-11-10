@@ -1,4 +1,4 @@
-👨‍💻 Olá! Eu sou [SEU NOME]
+👨‍💻 Olá! Eu sou Antônio Gabriel!
 
 <p align="center">
 <img src="./study.gif" width="350" alt="Estudante de anime estudando programação">
@@ -15,7 +15,7 @@ Sou apaixonado por tecnologia, programação e desenvolvimento de soluções. Es
 🛠️ Tecnologias e ferramentas
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,react,nodejs,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,github,vscode" />
 </div>
 
 📊 Estatísticas do GitHub
