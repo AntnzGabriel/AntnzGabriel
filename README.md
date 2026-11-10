@@ -1,9 +1,10 @@
-👨‍💻 Olá! Eu sou Antônio Gabriel!
+
+<h1 align="center">👨‍💻 Olá! Eu sou Antônio Gabriel!</h1>
 
 <p align="center">
-<img src="./tumblr_ovne0w9AEk1v838qjo1_540_gif (540×304) (1).gif
-" width="350" alt="Estudante de anime estudando programação">
+  <img src="./study.gif" width="350" alt="Estudante de anime estudando programação">
 </p>
+
 
 <h3 align="center">
 🚀 Desenvolvedor em evolução | Tecnologia | Programação
