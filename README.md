@@ -20,20 +20,15 @@ Sou apaixonado por tecnologia, programação e desenvolvimento de soluções. Es
 <img src="https://skillicons.dev/icons?i=python,github,vscode" />
 </div>
 
-📊 Estatísticas do GitHub
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
 
 🌐 Onde me encontrar
 
 <div align="center">
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/AntnzGabriel">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </div>
+
 
 🎯 Objetivos
 📚 Aprimorar meus conhecimentos em programação.
